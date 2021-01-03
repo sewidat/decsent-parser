@@ -1,2 +1,2 @@
 # decsent-parser
-this the simulation of decent parser writen in java
+this is a simulation of decent parser writen in java
